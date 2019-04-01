@@ -5,4 +5,4 @@ I created this script to fix an issue I had with my Roku Ultra/Plex.  For some r
 
 I found separate tools that could do each piece.  You'll need to install mkvToolsNix, eca3to, and the lame.exe converter.  I put all but mkvToolsNix into a tools folder.  
 
-It does not recurse or delete the source files. It does clean-up intermediary files.  It will relabel the source mkv to .old. 
+It does not recurse or delete the source files. It does clean-up intermediary files.  It will relable the source mkv to .old. 
